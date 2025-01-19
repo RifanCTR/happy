@@ -33,7 +33,7 @@ body {
 }
 .birthday-message1 {
     position: absolute;
-    top: 20vmin;
+    top: 24vmin;
     left: 50%;
     transform: translateX(-50%);
     color: #fff;
@@ -43,7 +43,7 @@ body {
 }
 .birthday-message2 {
     position: absolute;
-    top: 20vmin;
+    top: 28vmin;
     left: 50%;
     transform: translateX(-50%);
     color: #fff;
@@ -53,7 +53,7 @@ body {
 }
 .birthday-message3 {
     position: absolute;
-    top: 20vmin;
+    top: 32vmin;
     left: 50%;
     transform: translateX(-50%);
     color: #fff;
